@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  findtext.cpp
+  findtext.vcxproj -> D:\Рабочий стол\oop\findtext\x64\Debug\findtext.exe
+  Running Tests
+  Сравнение файлов C:\USERS\ZAVOY\APPDATA\LOCAL\TEMP\out.txt и HAVE-OUT.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов C:\USERS\ZAVOY\APPDATA\LOCAL\TEMP\out.txt и NOT-OUT.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов C:\USERS\ZAVOY\APPDATA\LOCAL\TEMP\out.txt и EMPTY-OUT.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов C:\USERS\ZAVOY\APPDATA\LOCAL\TEMP\out.txt и OFF-OUT.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов C:\USERS\ZAVOY\APPDATA\LOCAL\TEMP\out.txt и EMPTYSTR-OUT.TXT
+  FC: различия не найдены
+  
+  All tests passed

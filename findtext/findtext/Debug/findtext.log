@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  findtext.cpp
+  findtext.vcxproj -> D:\Рабочий стол\oop\findtext\Debug\findtext.exe
+  Running Tests
+  Сравнение файлов C:\USERS\ZAVOY\APPDATA\LOCAL\TEMP\out.txt и HAVE-OUT.TXT
+  FC: не удается открыть HAVE-OUT.TXT; файл либо папка не существует.
+  
+  Program testing failed
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: выход из команды "test.bat "D:\Рабочий стол\oop\findtext\Debug\findtext.exe"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd" с кодом 1.
